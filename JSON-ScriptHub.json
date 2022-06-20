@@ -22,7 +22,7 @@
         },
         "Owl Hub":{
             "Name": "Owl Hub", 
-            "source": "loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))();", 
             "Description": "One of the best script hubs!", 
         },
         "VG Hub":{
