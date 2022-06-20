@@ -1,11 +1,13 @@
 # JSON-ScriptHub
 
+**MAKE SURE TO GIVE CREDITS TO PareX IF YOU'RE USING THIS, You may or may not give credits to me.**
+
 A free to use JSON script-hub that you can use for your exploit!
 
 This gets updated constantly and I myself use this for my sploits.
 
 To import it into your exploit, Please read the documentation provided.
-You may or may not give credits!
+You may or may not give credits to me!
 
 #### Documentation
 Please use the documentation given to import this scripthub into your exploit.
