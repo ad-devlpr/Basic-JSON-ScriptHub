@@ -15,6 +15,7 @@ First, Add the following to your scripthub window:
 -A richtextbox
 -A button
 -Newtonsoft.Json (NuGet package or DLL [REFERENCE])
+
 (To install Newtonsoft.Json via NuGet; In your visual studio with the current project open, Go to Project > Manage NuGet Packages > Browse. Once you're
 there, Search for "Newtonsoft.Json" in it and install it. Then, In your scripthub window's code, At the top, Put this: )
 ```
