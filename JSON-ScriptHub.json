@@ -22,7 +22,7 @@
         },
         "Owl Hub":{
             "Name": "Owl Hub", 
-            "source": "https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua", 
+            "source": "loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();", 
             "Description": "One of the best script hubs!", 
         },
         "VG Hub":{
