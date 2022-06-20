@@ -2,22 +2,22 @@
     "scriptHub": {
          "Dex Explorer": { 
             "Name": "Dex Explorer", 
-            "source": "https://raw.githubusercontent.com/S4W77/Dark-Dex-V3/main/Dark%20Dex%20V3.txt", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/S4W77/Dark-Dex-V3/main/Dark%20Dex%20V3.txt'))()", 
             "Description": "This is a game explorer ( really useful for lua devs)", 
         },
         "Remote Spy":{
             "Name": "Remote Spy", 
-            "source": "https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua'))()", 
             "Description": "Allows you to view RemoteEvents and RemoteFunctions called.", 
         },
         "Script Dumper":{ 
             "Name": "Script Dumper", 
-            "source": "https://raw.githubusercontent.com/ou1z/Roblox-Scripts/master/Script%20Dumper.lua", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ou1z/Roblox-Scripts/master/Script%20Dumper.lua'))()", 
             "Description": "Dumps all LocalScripts and ModuleScripts.", 
         },
         "Infinite Yield":{
             "Name": "Infinite Yield", 
-            "source": "https://infyield.yolasite.com/resources/IY_FE.txt", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()", 
             "Description": "An admin command's script", 
         },
         "Owl Hub":{
@@ -27,7 +27,7 @@
         },
         "VG Hub":{
             "Name": "V.G Hub", 
-            "source": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()", 
             "Description": "V.G Hub Free and Convenient", 
         }
     }
