@@ -29,6 +29,11 @@
             "Name": "V.G Hub", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()", 
             "Description": "V.G Hub Free and Convenient", 
+        },
+        "CMD X":{ 
+            "Name": "CMD X", 
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()", 
+            "Description": "Another admin script like Infinite Yield", 
         }
     }
 }
