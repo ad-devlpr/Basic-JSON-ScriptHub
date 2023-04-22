@@ -3,42 +3,42 @@
          "Dex Explorer": { 
             "Name": "Dex Explorer", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/infyiff/backup/main/dex.lua'))()", 
-            "Description": "Dex Explorer V4 is a game explorer which is really useful for developers!"
+            "Description": "Dex Explorer V4 is a game explorer which is really useful for developers!",
         },
         "Remote Spy":{
             "Name": "Remote Spy", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua'))()", 
-            "Description": "Allows you to view and log RemoteEvents, RemoteFunctions, etc called in the instance."
+            "Description": "Allows you to view and log RemoteEvents, RemoteFunctions, etc called in the instance.",
         },
         "Script Dumper":{ 
             "Name": "Script Dumper", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ou1z/Roblox-Scripts/master/Script%20Dumper.lua'))()", 
-            "Description": "Dumps all LocalScripts and ModuleScripts in the game."
+            "Description": "Dumps all LocalScripts and ModuleScripts in the game.",
         },
         "Infinite Yield":{
             "Name": "Infinite Yield", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()", 
-            "Description": "The best admin command script with various function rich commands!"
+            "Description": "The best admin command script with various function rich commands!",
         },
         "Owl Hub":{
             "Name": "Owl Hub", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))();", 
-            "Description": "One of the best script hubs and universal aimbot + esp!" 
+            "Description": "One of the best script hubs and universal aimbot + esp!",
         },
         "VG Hub":{
             "Name": "V.G Hub", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()", 
-            "Description": "V.G Hub, A Free and Convenient scripthub supporting 140+ games!"
+            "Description": "V.G Hub, A Free and Convenient scripthub supporting 140+ games!",
         },
         "CMD X":{ 
             "Name": "CMD X", 
             "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()", 
-            "Description": "Another admin command script like Infinite Yield, but has way more commands." 
+            "Description": "Another admin command script like Infinite Yield, but has way more commands.",
         },
         "Unfair Hub":{
             "Name": "Unfair Hub",
             "source": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'),true))()",
-            "Description": "Supporting more than 60+ games, Unfair Hub is a scripthub that finds the best collection of scripts for your game."
+            "Description": "Supporting more than 60+ games, Unfair Hub is a scripthub that finds the best collection of scripts for your game.",
         }
     }
 }
