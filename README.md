@@ -60,7 +60,7 @@ if (listBox1.SelectedItem is null) return;
                 {
                     if (json_object[sub_object.ToObject<JProperty>().Name]["Name"].ToString() == listBox2.SelectedItem.ToString())
                     {
-                        YourAPI_OR_DLL.Execute(new WebClient().DownloadString(json_object[sub_object.ToObject<JProperty>().Name]["source"].ToString()));
+                        YourAPI_OR_DLL.Execute(json_object[sub_object.ToObject<JProperty>().Name]["source"].ToString());
                     }
 
                 }
