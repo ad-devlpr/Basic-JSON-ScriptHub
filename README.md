@@ -4,7 +4,7 @@
 
 Credits:
 PareX - Documentation ;
-Me/Ad - Everything other than that. Also made modifications to the documentation (was outdated, updated it recently).
+Me/Ad - Owner, Main developer. Also made modifications to the documentation (was outdated, updated it recently).
 
 A free to use JSON script-hub that you can use for your exploit!
 
