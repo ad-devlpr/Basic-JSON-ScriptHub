@@ -70,7 +70,7 @@ I will be updating the scripthub with new scripts whenever I can.
 
 If you are looking forward to make your own JSON script hub, Don't hesitate to use the format from Dont_Mind_This.txt to make your own JSON scripthub with custom scripts.
 
-DM Ad#3511 if you need help / having issues in doing this.
+DM Ad#1085 if you need help / having issues in doing this.
 
 Thank you!
 See you,
