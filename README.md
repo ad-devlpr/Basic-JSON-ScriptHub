@@ -1,6 +1,10 @@
 # JSON-ScriptHub
 
-**MAKE SURE TO GIVE CREDITS TO PareX IF YOU'RE USING THIS, You may or may not give credits to me.**
+**MAKE SURE TO GIVE CREDITS TO ME AND PareX IF YOU'RE USING THIS!!!**
+
+Credits:
+PareX - Documentation
+Me/Ad - Everything other than that. Also made modifications to the documentation (was outdated, updated it recently).
 
 A free to use JSON script-hub that you can use for your exploit!
 
